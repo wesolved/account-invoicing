@@ -7,6 +7,6 @@ class ResCompany(models.Model):
     _inherit = "res.company"
 
     invoice_section_grouping = fields.Selection(
-        selection_add=[("delivery_picking", "Group by delivery picking")],
+        selection=[("delivery_picking", "Group by delivery picking")],
         ondelete={"delivery_picking": "set default"},
     )
