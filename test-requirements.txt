@@ -1,0 +1,2 @@
+odoo-addon-base_tier_validation @ git+https://github.com/OCA/server-ux.git@refs/pull/966/head#subdirectory=base_tier_validation
+odoo-addon-account_move_tier_validation @ git+https://github.com/OCA/account-invoicing.git@refs/pull/1830/head#subdirectory=account_move_tier_validation
