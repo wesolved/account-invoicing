@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_account_move_editable_date_due,access.account.move.editable.date.due,account.model_account_move,account_invoice_date_due.group_change_invoice_due_date,1,1,1,0
